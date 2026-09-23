@@ -1,0 +1,44 @@
+﻿## [Visual Studio / .NET Core Ignore]
+bin/
+obj/
+out/
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+*.sln.docstates
+
+## [Build Results]
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa]rms/
+[Aa]rm64/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## [Test Results]
+TestResults/
+[Tt]est[Rr]esult*/
+
+## [Crash & Diagnostics]
+*.stackdump
+*.dmp
+*.crash
+
+## [OS Generated]
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini

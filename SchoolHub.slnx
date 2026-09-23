@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="SchoolHub.API/SchoolHub.API.csproj" />
+  <Project Path="SchoolHub.Application/SchoolHub.Application.csproj" />
+  <Project Path="SchoolHub.Domain/SchoolHub.Domain.csproj" />
+  <Project Path="SchoolHub.Infrastructure/SchoolHub.Infrastructure.csproj" />
+  <Project Path="SchoolHub.UnitTests/SchoolHub.UnitTests.csproj" />
+</Solution>
